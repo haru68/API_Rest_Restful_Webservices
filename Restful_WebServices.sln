@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Restful_WebServices", "Restful_WebServices.csproj", "{505705D8-0730-4C4C-AC2F-5BCDE0021B44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{505705D8-0730-4C4C-AC2F-5BCDE0021B44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{505705D8-0730-4C4C-AC2F-5BCDE0021B44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{505705D8-0730-4C4C-AC2F-5BCDE0021B44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{505705D8-0730-4C4C-AC2F-5BCDE0021B44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {537B0B54-AF2B-46CB-9E09-985C51441448}
+	EndGlobalSection
+EndGlobal
